@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    background-color: black;
+    color: #fff;
+}
+
+.container{
+    margin: auto auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+.characters{
+    width: 80%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 350px;
+    grid-gap: 10px;
+}
+
+.character{
+    grid-column: 1fr;
+}
+
+.character img{
+    width: 100%;
+    height: 350px;
+}
