@@ -1,7 +1,12 @@
 #Learning Api
+https://breakingbadapi-reactapp.netlify.app/
+
+Learnt how to fetch data from api
+Also learnt about responsive web design media query
 
 ![Screenshot (391)](https://user-images.githubusercontent.com/72207261/134812604-71dee4e9-01ba-4175-b42a-d63c8e23dbcf.png)
 
+![Screenshot (396)](https://user-images.githubusercontent.com/72207261/134929092-0df7fa8e-a903-45a1-acc6-e4f913d9878a.png)
 
 
 --------------------------------------------------------------------------------------------
